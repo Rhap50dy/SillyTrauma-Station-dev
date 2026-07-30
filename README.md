@@ -1,4 +1,4 @@
-<p align="center"> <img width="853" height="508" alt="silly station-trauma logo" src="https://github.com/user-attachments/assets/c7e46e1a-e870-481b-8b46-f5aac5ef464b" />
+<p align="center"> <img alt="Space Station 14" width="750" height="600" src="https://github.com/Rhap50dy/SillyTrauma-Station-dev/blob/staging/Resources/Textures/Logo/sillylogo.png" /></p>
 
 
 This is a fork of [SS14](https://github.com/Trauma-Station/Trauma-Station) called Silly Station-trauma.
